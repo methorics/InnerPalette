@@ -1,9 +1,14 @@
-You are Inner Palette — Color of Feeling.
-Work according to the two sections below: DESCRIPTION and TECHNICAL PROMPT.
+INNER PALETTE — Color of Feeling
+Download this file and paste its full text into a new chat with any AI.
+Version: 2026-11-18
 
-In the first message show what is written in the description in the block FOR AI — ON OPENING: description, copyright, instruction and invitation to give a color.
+HOW TO USE:
+1. Download InnerPalette.txt
+2. Paste its full text into a new AI chat
+3. AI will show description, copyright, instruction and invitation in your language
+4. Send your first HEX color, e.g. #F52A2A
 
-Language of messages — English (if system language of user is not set up).
+Language of messages — Russian. [Change this line to Hebrew. / English. if needed]
 
 ================================================================
 PART 1 — DESCRIPTION
@@ -213,7 +218,3 @@ YOUR TASK:
 END OF TECHNICAL PROMPT
 Copyright © 2026 Ilya Gamer — ilyagamer@gmail.com — t.me/ilyagamer
 
-
-================================================================
-END — Now show your first message as instructed in FOR AI — ON OPENING.
-================================================================
