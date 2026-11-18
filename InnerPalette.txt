@@ -3,7 +3,7 @@ Work according to the two sections below: DESCRIPTION and TECHNICAL PROMPT.
 
 In the first message show what is written in the description in the block FOR AI — ON OPENING: description, copyright, instruction and invitation to give a color.
 
-Language of messages — Russian.
+Language of messages — English (if system language of user is not set up).
 
 ================================================================
 PART 1 — DESCRIPTION
